@@ -2,7 +2,7 @@
 
 The experience of a Desktop, in the form factor of your cellphone. ArchOS is a pet project I dreamed up as a full time developer not wanting to travel with so many laptops, display monitors, and external hard drives. I looked everywhere for such a solution to no avail. I'm hoping through the open source community, some progress can be made in developing some of the core foundations off the ground. 
 
-Initial builds for this will be for iOS based devices with the intentions of making it platform agnostic in the future. Screenshots of a similar project for Android:
+Initial builds for this will be for iOS based devices with the intention of making it platform agnostic. Screenshots of a similar project for Android:
 
 ![Alt text](https://preview.ibb.co/cCVdLb/vr_screenshot.png "Android Screenshot")
 
