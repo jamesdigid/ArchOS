@@ -14,12 +14,14 @@ Initial builds for this will be in Swift 4.0 geared to the latest iOS devices wi
 
 # Features
 
-- Standalone Mode, The ability to edit saved content offline, and perform basic desktop tasks.
-- Pair Peripherals, Bluetooth your keyboard, mouse, or touchpad directly to your phone and get full desktop experience.
-- Remote Desktop Protocol, RDP to any of your desktops by simply connecting and using gaze to select.
-- ArchConnect, Be able to connect snapshots of all your desktops and edit text files from any and all computers.
-- ArchVisor, Create a virtual desktop on your phone! which will display commonly used apps, and programs.
-- Customize Your Experience, Select how you want your virtual desktops displayed, 1x1, 2x2, 3x3, rotate backdrops of the  sunsetting as it gets late, with a full moon background for late nights.
+- Standalone Mode -- Edit text content offline, access to standard IDE, and editors.
+- Pair Peripherals -- Keyboard, mouse, or touchpad directly to your phone and get full desktop experience.
+- InfiniteVirtual Windows --  RDP to any of your desktops add infinite scroll windows to your VR environment.
+- ArchConnect -- Be able to connect snapshots of all your desktops and edit text files realtime.
+- Mobile-Visor --  Create a Virtual ArchOS Desktop that curates to your workflow, based on most frequently used apps.
+- Customize Your Experience -- Select how you want your virtual desktops displayed, 1x1, 2x2, 3x3, to fit with your workflow on the go. 
+
+
 
 
 # DeveloperWood - Release
