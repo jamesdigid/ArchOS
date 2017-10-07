@@ -24,7 +24,7 @@ Initial builds for this will be in Swift 4.0 geared to the latest iOS devices wi
 
 # DeveloperWood - Release
 
-First release will be built on top of "Developer-Oriented-Design" needs, and generally open source. I dont intend to push the latest code up to GitHub until I reach a certain amount of contributors to help move it forward. Projects such as these seem to stagnate to a halt unless contributors are involved and share the vision. If that's you, then let me know. 
+First release will be built around "Developer-Oriented-Design" needs, and generally open source. I dont intend to push the latest code up to GitHub until I reach a certain amount of contributors to help move it forward. Projects such as these seem to stagnate to a halt unless contributors are involved and share the vision. If that's you, then let me know. 
 
 
 # Contribute
