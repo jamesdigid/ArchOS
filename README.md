@@ -4,7 +4,7 @@ The experience of a Desktop, in the form factor of your cellphone. ArchOS is a p
 
 
 # Swift
-Initial builds for this will be in Swift 4.0 geared latest iOS devices with the intention of making it platform agnostic in the future. Screenshots of a similar project for Android:
+Initial builds for this will be in Swift 4.0 geared to the latest iOS devices with the intention of switching to a more platform agnostic language in the future(Rust?). Screenshots of a similar project for Android:
 
 ![Alt text](https://preview.ibb.co/cCVdLb/vr_screenshot.png "Android Screenshot")
 
