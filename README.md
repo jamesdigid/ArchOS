@@ -20,9 +20,10 @@ Initial builds for this will be in Swift 4.0 geared to the latest iOS devices wi
 - ArchVisor, Create a virtual desktop on your phone! which will display commonly used apps, and programs 
 - Customize Your Experience, Select how you want your virtual desktops displayed, 1x1, 2x2, 3x3, rotate backdrops of the  sunsetting as it gets late, with a full moon background for late nights.
 
-# QuickWin Goals 
 
-My initial goals are for short quick wins, to build momentum, and run with it. This means, for myself building out a simple stackable, fluid VR window pane enviorment, gaze focusing, live streaming of desktop, and perhaps some search functionality of media. Those stepping stones will help me further work within my own enviorment (maybe you too), and make it more interesting to write in more features. 
+# DeveloperWood - Release
+
+First release will be built on top of "Developer-Oriented-Design" needs, and generally open source. I dont intend to push the latest code up to GitHub until I reach a certain amount of contributors to help move it forward. Projects such as these seem to stagnate to a halt unless contributors are involved and share the vision. If that's you, then let me know. 
 
 
 # Contribute
