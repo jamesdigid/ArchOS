@@ -18,7 +18,7 @@ Initial builds for this will be in Swift 4.0 geared to the latest iOS devices wi
 - Remote Desktop Protocol, RDP to any of your desktop by simply connecting and gazing over bring it into focus
 - ArchConnect, Be able to connect snapshots of all your desktops and edit text files from any and all computers.
 - ArchVisor, Create a virtual desktop on your phone! which will display commonly used apps, and programs 
-- Customize Your Experience, Select how you want your virtual desktops displayed, 1x1, 2x2, 3x3, rotate backdrops of the  sunsetting as it gets late, work under a fullmoon anytime you want.
+- Customize Your Experience, Select how you want your virtual desktops displayed, 1x1, 2x2, 3x3, rotate backdrops of the  sunsetting as it gets late, with a full moon background for late nights.
 
 # QuickWin Goals 
 
