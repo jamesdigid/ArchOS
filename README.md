@@ -6,6 +6,8 @@ Initial builds for this will be for iOS based devices with the intentions of mak
 
 ![Alt text](https://preview.ibb.co/cCVdLb/vr_screenshot.png "Android Screenshot")
 
+(https://github.com/svenhenrik/CardboardRemoteDesktop)
+
 
 # Features
 
