@@ -15,6 +15,7 @@
 		2E9F6AB11F88545300C0C287 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2E9F6AAF1F88545300C0C287 /* LaunchScreen.storyboard */; };
 		2E9F6ABC1F88545400C0C287 /* ArchOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E9F6ABB1F88545400C0C287 /* ArchOSTests.swift */; };
 		2E9F6AC71F88545400C0C287 /* ArchOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E9F6AC61F88545400C0C287 /* ArchOSUITests.swift */; };
+		2EE9C62F1F89054B009919F3 /* RealityScaffolding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EE9C62E1F89054B009919F3 /* RealityScaffolding.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		2E9F6AC21F88545400C0C287 /* ArchOSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ArchOSUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E9F6AC61F88545400C0C287 /* ArchOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArchOSUITests.swift; sourceTree = "<group>"; };
 		2E9F6AC81F88545400C0C287 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2EE9C62E1F89054B009919F3 /* RealityScaffolding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RealityScaffolding.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,13 +101,8 @@
 		2E9F6AA21F88545100C0C287 /* ArchOS */ = {
 			isa = PBXGroup;
 			children = (
-				2E9F6AA31F88545100C0C287 /* AppDelegate.swift */,
-				2E9F6AA51F88545200C0C287 /* ViewController.swift */,
-				2E9F6AA71F88545200C0C287 /* Main.storyboard */,
-				2E9F6AAD1F88545300C0C287 /* Assets.xcassets */,
-				2E9F6AAF1F88545300C0C287 /* LaunchScreen.storyboard */,
-				2E9F6AB21F88545300C0C287 /* Info.plist */,
-				2E9F6AAA1F88545200C0C287 /* ArchOS.xcdatamodeld */,
+				2EE9C62D1F890439009919F3 /* MainSceneView */,
+				2EE9C62C1F8903DA009919F3 /* Supported Files */,
 			);
 			path = ArchOS;
 			sourceTree = "<group>";
@@ -126,6 +123,52 @@
 				2E9F6AC81F88545400C0C287 /* Info.plist */,
 			);
 			path = ArchOSUITests;
+			sourceTree = "<group>";
+		};
+		2EE9C62C1F8903DA009919F3 /* Supported Files */ = {
+			isa = PBXGroup;
+			children = (
+				2E9F6AAD1F88545300C0C287 /* Assets.xcassets */,
+				2E9F6AB21F88545300C0C287 /* Info.plist */,
+				2E9F6AAA1F88545200C0C287 /* ArchOS.xcdatamodeld */,
+			);
+			path = "Supported Files";
+			sourceTree = "<group>";
+		};
+		2EE9C62D1F890439009919F3 /* MainSceneView */ = {
+			isa = PBXGroup;
+			children = (
+				2EE9C6301F890563009919F3 /* Controller */,
+				2EE9C6321F890597009919F3 /* View */,
+				2EE9C6311F890586009919F3 /* Model */,
+			);
+			path = MainSceneView;
+			sourceTree = "<group>";
+		};
+		2EE9C6301F890563009919F3 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				2E9F6AA51F88545200C0C287 /* ViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		2EE9C6311F890586009919F3 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				2EE9C62E1F89054B009919F3 /* RealityScaffolding.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		2EE9C6321F890597009919F3 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				2E9F6AA71F88545200C0C287 /* Main.storyboard */,
+				2E9F6AA31F88545100C0C287 /* AppDelegate.swift */,
+				2E9F6AAF1F88545300C0C287 /* LaunchScreen.storyboard */,
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -267,6 +310,7 @@
 			files = (
 				2E9F6AAC1F88545200C0C287 /* ArchOS.xcdatamodeld in Sources */,
 				2E9F6AA61F88545200C0C287 /* ViewController.swift in Sources */,
+				2EE9C62F1F89054B009919F3 /* RealityScaffolding.swift in Sources */,
 				2E9F6AA41F88545100C0C287 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -520,6 +564,7 @@
 				2E9F6ACD1F88545400C0C287 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2E9F6ACE1F88545400C0C287 /* Build configuration list for PBXNativeTarget "ArchOSTests" */ = {
 			isa = XCConfigurationList;
@@ -528,6 +573,7 @@
 				2E9F6AD01F88545400C0C287 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2E9F6AD11F88545400C0C287 /* Build configuration list for PBXNativeTarget "ArchOSUITests" */ = {
 			isa = XCConfigurationList;
@@ -536,6 +582,7 @@
 				2E9F6AD31F88545400C0C287 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
