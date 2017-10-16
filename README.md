@@ -1,10 +1,6 @@
 # ArchOS
 
-The experience of a Desktop, in the form factor of your cellphone. ArchOS is a pet project I dreamed up as a full time developer not wanting to travel with so many laptops, display monitors, and external hard drives. I looked everywhere for such a solution to no avail. I'm hoping through the open source community, others will share the same interest making this a reality.
-
-
-# Swift
-Initial builds for this will be in Swift 4.0 geared to the latest iOS devices with the intention of switching to a more platform agnostic language in the future(Rust?). 
+ArchOS is built around the principle of "Developer-Oriented-Design" meaning to cater towards the needs of development. This will be built as a mobile application capable of running on any mobile platform, which will allow the ability to pair by RDP to multiple connected Desktop (MacOSX, Windows), and create a virtual ArchOS platform allowing fullstack, and virtual runtime development. 
 
 # Screenshot
 ![Alt text](https://preview.ibb.co/cCVdLb/vr_screenshot.png "Android Screenshot")
