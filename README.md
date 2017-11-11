@@ -1,6 +1,6 @@
 # ArchOS
 
-ArchOS is built around the principle of "Developer-Oriented-Design" meaning to cater towards the needs of development. This will be built as a mobile application capable of running on any mobile platform, which will allow the ability to pair by RDP to multiple connected Desktop (MacOSX, Windows), and create a virtual ArchOS platform allowing fullstack, and virtual runtime development. 
+ArchOS is built around the principle of "Developer-Oriented-Design" meaning to cater towards the needs of development. This will be built as a mobile application capable of running on any mobile platform, which will allow the ability to pair via bluetooth, create multiple RDP connections (MacOSX, Windows), and create a virtual ArchOS snapshot for offline content authoring, and editing. 
 
 # Screenshot
 ![Alt text](https://preview.ibb.co/cCVdLb/vr_screenshot.png "Android Screenshot")
